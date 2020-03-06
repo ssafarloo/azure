@@ -1,2 +1,0 @@
-# azure
-Azure projects
